@@ -2,3 +2,7 @@
 Contains configuration of the spells, abilities, talents, and other stuff regarding the 3rd spec idea of the demon hunter WoW class.
 
 https://mt-link.omnisoft.ro/cl/ltnDD8tf8vYyAuNpCLqZzbEd6Iq0QGdd3KiOM7h9YffyP0QJNDqgKrX0MZJ72zSTJcqI8u1FhamGRpW99WayaGhdQdfRz3YF828sZq.up9Nw20tK_SiOygp8af5Qgh4Rjyxo4y8gmKnmYSqGIy.opqr4v6pmNwEDZ8T5NE2M2n6Oxulws8M9KbrEQNRi4NemBzmkmrBQ1GdDuogkNeppKL_43ADvaMVaFFgEhcSCMP_PJFfLf6ybnsFE1hN47Rk4POojEUV5QGf7urRjrLoH6a1OowLNlSqoT4CE3R17S.NzhsMd.ehz6uQZWw~~--pSCNkeAXqqdTUhSl--swcHLwnuk5rS9q.6xj4qFQ~~
+
+```
+https://mt-link.omnisoft.ro/cl/ltnDD8tf8vYyAuNpCLqZzbEd6Iq0QGdd3KiOM7h9YffyP0QJNDqgKrX0MZJ72zSTJcqI8u1FhamGRpW99WayaGhdQdfRz3YF828sZq.up9Nw20tK_SiOygp8af5Qgh4Rjyxo4y8gmKnmYSqGIy.opqr4v6pmNwEDZ8T5NE2M2n6Oxulws8M9KbrEQNRi4NemBzmkmrBQ1GdDuogkNeppKL_43ADvaMVaFFgEhcSCMP_PJFfLf6ybnsFE1hN47Rk4POojEUV5QGf7urRjrLoH6a1OowLNlSqoT4CE3R17S.NzhsMd.ehz6uQZWw~~--pSCNkeAXqqdTUhSl--swcHLwnuk5rS9q.6xj4qFQ~~
+```
